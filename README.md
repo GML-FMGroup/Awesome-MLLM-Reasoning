@@ -23,6 +23,6 @@
    
 # Benchmark & Evaluation
 
-1. **[MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts.](https://arxiv.org/abs/2502.20808))** [[project](https://eternal8080.github.io/MV-MATH.github.io/)] [[code](https://github.com/eternal8080/MV-MATH))]
+1. **[MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts.](https://arxiv.org/abs/2502.20808)** [[project](https://eternal8080.github.io/MV-MATH.github.io/)] [[code](https://github.com/eternal8080/MV-MATH))]
 
     *Peijie Wang, Zhongzhi Li, Dekang Ran, Fei Yin, Chenglin Liu.* CVPR 2025
