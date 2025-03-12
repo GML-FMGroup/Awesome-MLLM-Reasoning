@@ -23,6 +23,6 @@
    
 # Benchmark & Evaluation
 
-1. **[MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts.]([https://arxiv.org/abs/2406.09403](https://arxiv.org/abs/2502.20808))** [[project]([https://visualsketchpad.github.io]([https://eternal8080.github.io/MV-MATH.github.io/](https://eternal8080.github.io/MV-MATH.github.io/))/)] [[code]([https://github.com/Yushi-Hu/VisualSketchpad](https://github.com/eternal8080/MV-MATH))]
+1. **[MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts.]([https://arxiv.org/abs/2406.09403](https://arxiv.org/abs/2502.20808))** [[project](https://eternal8080.github.io/MV-MATH.github.io/)] [[code](https://github.com/eternal8080/MV-MATH))]
 
-    *Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna.* Preprint'24
+    *Peijie Wang, Zhongzhi Li, Dekang Ran, Fei Yin, Chenglin Liu.* CVPR 2025
