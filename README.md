@@ -76,6 +76,6 @@
 
 # Survey
 
-1. [**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.**](https://arxiv.org/abs/2503.12605)
+1. [**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.) [[code](http://github.com/yaotingwangofficial/Awesome-MCoT)] 
    *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, William Wang, Ziwei Liu, Jiebo Luo, Hao Fei* Preprint'25
 
