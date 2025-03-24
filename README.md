@@ -73,3 +73,9 @@
     *Fanqing Meng, Lingxiao Du, Zongkai Liu, Zhixiang Zhou, Quanfeng Lu, Daocheng Fu, Botian Shi, Wenhai Wang, Junjun He, Kaipeng Zhang, Ping Luo, Yu Qiao, Qiaosheng Zhang, Wenqi Shao.* Preprint'25
     
     
+
+# Survey
+
+1. [**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.**](https://arxiv.org/abs/2503.12605)
+   *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, William Wang, Ziwei Liu, Jiebo Luo, Hao Fei* Preprint'25
+
