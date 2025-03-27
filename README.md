@@ -78,6 +78,6 @@
 
 1. [**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.**](https://arxiv.org/abs/2503.12605)  [[code](http://github.com/yaotingwangofficial/Awesome-MCoT)] 
    *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, William Wang, Ziwei Liu, Jiebo Luo, Hao Fei*. Preprint'25
-2. [**Mind with Eyes: from Language Reasoning to Multimodal Reasoning.**](https://arxiv.org/abs/2503.18071)  [[code](http://github.com/yaotingwangofficial/Awesome-MCoT)] 
+2. [**Mind with Eyes: from Language Reasoning to Multimodal Reasoning.**](https://arxiv.org/abs/2503.18071) 
    *Zhiyu Lin, Yifei Gao, Xian Zhao, Yunfan Yang, Jitao Sang.* Preprint'25
 
