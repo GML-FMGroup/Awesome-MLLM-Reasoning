@@ -1,6 +1,6 @@
 # Awesome-MLLMs-Reasoning
 
-# Papers
+## Papers
 
 1. **[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.](https://arxiv.org/abs/2501.06186)** [[project](https://mbzuai-oryx.github.io/LlamaV-o1/)] [[code](https://github.com/mbzuai-oryx/LlamaV-o1)] [[model](https://huggingface.co/omkarthawakar/LlamaV-o1)]
 
@@ -26,8 +26,13 @@
 1. [**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL.**](https://arxiv.org/pdf/2503.07536) [[code](https://github.com/TideDra/lmm-r1)]
     *Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, Zhiyuan You, Jie Liu, Qipeng Zhu, Kai Yang, Xingzhong Xu, Xin Geng, Xu Yang.* Preprint'25
 
+<<<<<<< HEAD
 1. [**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model. **](https://arxiv.org/abs/2503.05132)[[code](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)] [[model](https://huggingface.co/turningpoint-ai/VisualThinker-R1-Zero)]
     *Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, Zhiyuan You, Jie Liu, Qipeng Zhu, Kai Yang, Xingzhong Xu, Xin Geng, Xu Yang.*Preprint'25
+=======
+1. [**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model.**](https://arxiv.org/abs/2503.05132)[[code](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)] [[model](https://huggingface.co/turningpoint-ai/VisualThinker-R1-Zero)]
+    *Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, Zhiyuan You, Jie Liu, Qipeng Zhu, Kai Yang, Xingzhong Xu, Xin Geng, Xu Yang.* Preprint'25
+>>>>>>> e5d26ada9f9c223860ba4f4cc3dd1e3e03ead807
 
 1. [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning.**](https://arxiv.org/abs/2503.05379) [[code](https://github.com/HumanMLLM/R1-Omni)] [[model](https://huggingface.co/StarJiaxing/R1-Omni-0.5B)]
     *Jiaxing Zhao, Xihan Wei, Liefeng Bo*. Preprint'25
@@ -40,6 +45,12 @@
 
 1. [**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning.**](https://arxiv.org/abs/2502.19634)
     *Jiazhen Pan, Che Liu, Junde Wu, Fenglin Liu, Jiayuan Zhu, Hongwei Bran Li, Chen Chen, Cheng Ouyang, Daniel Rueckert*. Preprint'25
+<<<<<<< HEAD
+=======
+
+1. [**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search.**](https://arxiv.org/abs/2412.18319)[[code](https://github.com/HJYao00/Mulberry)] 
+     *Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao*.Preprint'24
+>>>>>>> e5d26ada9f9c223860ba4f4cc3dd1e3e03ead807
 
 1. [**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM.**](https://arxiv.org/abs/2501.01904v2)[[code](https://github.com/RUCAIBox/Virgo)]
      *Yifan Du, Zikang Liu, Yifan Li, Wayne Xin Zhao, Yuqi Huo, Bingning Wang, Weipeng Chen, Zheng Liu, Zhongyuan Wang, Ji-Rong Wen.* Preprint'25
@@ -55,7 +66,7 @@
 
      
 
-# Benchmark & Evaluation
+## Benchmark & Evaluation
 
 1. **[MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts.](https://arxiv.org/abs/2502.20808)** [[project](https://eternal8080.github.io/MV-MATH.github.io/)] [[code](https://github.com/eternal8080/MV-MATH)]
     *Peijie Wang, Zhongzhi Li, Dekang Ran, Fei Yin, Chenglin Liu.* CVPR 2025
@@ -74,10 +85,12 @@
     
     
 
-# Survey
+## Survey
 
 1. [**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.**](https://arxiv.org/abs/2503.12605)  [[code](http://github.com/yaotingwangofficial/Awesome-MCoT)] 
    *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, William Wang, Ziwei Liu, Jiebo Luo, Hao Fei*. Preprint'25
 2. [**Mind with Eyes: from Language Reasoning to Multimodal Reasoning.**](https://arxiv.org/abs/2503.18071) 
    *Zhiyu Lin, Yifei Gao, Xian Zhao, Yunfan Yang, Jitao Sang.* Preprint'25
 
+## Contributing
+This is an active repository and your contributions are always welcome!
