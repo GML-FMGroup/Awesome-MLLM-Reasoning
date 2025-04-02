@@ -23,7 +23,6 @@
     *Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao*. Preprint'24
     
 1. **[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.](https://arxiv.org/abs/2501.06186)** [[project](https://mbzuai-oryx.github.io/LlamaV-o1/)] [[code](https://github.com/mbzuai-oryx/LlamaV-o1)] [[model](https://huggingface.co/omkarthawakar/LlamaV-o1)]
-    
     *Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Noor Ahsan, Yuhao Li, Mohammed Zumri, Jean Lahoud, Rao Muhammad Anwer, Hisham Cholakkal, Ivan Laptev, Mubarak Shah, Fahad Shahbaz Khan, Salman Khan.* Preprint'25
     
 1. [**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL.**](https://arxiv.org/pdf/2503.07536) [[code](https://github.com/TideDra/lmm-r1)]
@@ -64,13 +63,13 @@
     *Peijie Wang, Zhongzhi Li, Dekang Ran, Fei Yin, Chenglin Liu.* CVPR 2025
     
 1. [**MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models.**](https://arxiv.org/abs/2502.00698)[[project](https://acechq.github.io/MMIQ-benchmark/)] [[code](https://github.com/AceCHQ/MMIQ/tree/main/)] [[dataset](https://huggingface.co/datasets/huanqia/MM-IQ)]
-    *Huanqia Cai, Yijun Yang, Winston Hu*.Preprint'25
+    *Huanqia Cai, Yijun Yang, Winston Hu*. Preprint'25
     
 1. [**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**](https://arxiv.org/abs/2502.09621)[[project](https://mmecot.github.io/)] [[code](https://github.com/CaraJ7/MME-CoT)] [[dataset](https://huggingface.co/datasets/CaraJ/MME-CoT)]
-    *Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li*.Preprint'25
+    *Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li*. Preprint'25
     
 1. [**ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models.**](https://arxiv.org/abs/2502.09696)[[project](https://zerobench.github.io/)] [[code](https://github.com/jonathan-roberts1/zerobench)] [[dataset](https://huggingface.co/datasets/jonathan-roberts1/zerobench)]
-    *Jonathan Roberts, Mohammad Reza Taesiri, Ansh Sharma, Akash Gupta, Samuel Roberts, Ioana Croitoru, Simion-Vlad Bogolin, Jialu Tang, Florian Langer, Vyas Raina, Vatsal Raina, Hanyi Xiong, Vishaal Udandarao, Jingyi Lu, Shiyang Chen, Sam Purkis, Tianshuo Yan, Wenye Lin, Gyungin Shin, Qiaochu Yang, Anh Totti Nguyen, David I. Atkinson, Aaditya Baranwal, Alexandru Coca, Mikah Dang, Sebastian Dziadzio, Jakob D. Kunz, Kaiqu Liang, Alexander Lo, Brian Pulfer, Steven Walton, Charig Yang, Kai Han, Samuel Albanie*.Preprint'25
+    *Jonathan Roberts, Mohammad Reza Taesiri, Ansh Sharma, Akash Gupta, Samuel Roberts, Ioana Croitoru, Simion-Vlad Bogolin, Jialu Tang, Florian Langer, Vyas Raina, Vatsal Raina, Hanyi Xiong, Vishaal Udandarao, Jingyi Lu, Shiyang Chen, Sam Purkis, Tianshuo Yan, Wenye Lin, Gyungin Shin, Qiaochu Yang, Anh Totti Nguyen, David I. Atkinson, Aaditya Baranwal, Alexandru Coca, Mikah Dang, Sebastian Dziadzio, Jakob D. Kunz, Kaiqu Liang, Alexander Lo, Brian Pulfer, Steven Walton, Charig Yang, Kai Han, Samuel Albanie*. Preprint'25
     
 1. [**MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning.**](https://arxiv.org/abs/2503.07365) [[code](https://github.com/ModalMinds/MM-EUREKA)] [[model](https://huggingface.co/FanqingM/MM-Eureka-8B)] [[dataset](https://huggingface.co/datasets/FanqingM/MM-Eureka-Dataset)]
     *Fanqing Meng, Lingxiao Du, Zongkai Liu, Zhixiang Zhou, Quanfeng Lu, Daocheng Fu, Botian Shi, Wenhai Wang, Junjun He, Kaipeng Zhang, Ping Luo, Yu Qiao, Qiaosheng Zhang, Wenqi Shao.* Preprint'25
