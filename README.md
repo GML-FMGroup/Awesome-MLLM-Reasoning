@@ -14,10 +14,10 @@
     *Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna.* Preprint'24
     
 1. [**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search.**](https://arxiv.org/abs/2412.18319)[[code](https://github.com/HJYao00/Mulberry)] 
-    *Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao*.Preprint'24
+    *Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao*. Preprint'24
     
 1. [**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization.**](https://arxiv.org/abs/2411.10442)[[project](https://internvl.github.io/blog/2024-11-14-InternVL-2.0-MPO/)] [[code](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo)] [[model](https://huggingface.co/OpenGVLab/InternVL2-8B-MPO)]
-    *Weiyun Wang, Zhe Chen, Wenhai Wang, Yue Cao, Yangzhou Liu, Zhangwei Gao, Jinguo Zhu, Xizhou Zhu, Lewei Lu, Yu Qiao, Jifeng Dai*.Preprint'24
+    *Weiyun Wang, Zhe Chen, Wenhai Wang, Yue Cao, Yangzhou Liu, Zhangwei Gao, Jinguo Zhu, Xizhou Zhu, Lewei Lu, Yu Qiao, Jifeng Dai*. Preprint'24
     
 1. [**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search.**](https://arxiv.org/abs/2412.18319)[[code](https://github.com/HJYao00/Mulberry)] 
     *Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao*. Preprint'24
