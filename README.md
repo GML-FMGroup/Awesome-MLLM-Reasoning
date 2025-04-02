@@ -1,6 +1,6 @@
 # Awesome-MLLMs-Reasoning
 
-# Papers
+## Papers
 
 1. **[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.](https://arxiv.org/abs/2501.06186)** [[project](https://mbzuai-oryx.github.io/LlamaV-o1/)] [[code](https://github.com/mbzuai-oryx/LlamaV-o1)] [[model](https://huggingface.co/omkarthawakar/LlamaV-o1)]
 
@@ -55,7 +55,7 @@
 
      
 
-# Benchmark & Evaluation
+## Benchmark & Evaluation
 
 1. **[MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts.](https://arxiv.org/abs/2502.20808)** [[project](https://eternal8080.github.io/MV-MATH.github.io/)] [[code](https://github.com/eternal8080/MV-MATH)]
     *Peijie Wang, Zhongzhi Li, Dekang Ran, Fei Yin, Chenglin Liu.* CVPR 2025
@@ -74,7 +74,7 @@
     
     
 
-# Survey
+## Survey
 
 1. [**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.**](https://arxiv.org/abs/2503.12605)  [[code](http://github.com/yaotingwangofficial/Awesome-MCoT)] 
    *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, William Wang, Ziwei Liu, Jiebo Luo, Hao Fei*. Preprint'25
