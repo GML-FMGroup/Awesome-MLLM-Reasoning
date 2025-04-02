@@ -29,14 +29,11 @@
 1. [**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL.**](https://arxiv.org/pdf/2503.07536) [[code](https://github.com/TideDra/lmm-r1)]
     *Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, Zhiyuan You, Jie Liu, Qipeng Zhu, Kai Yang, Xingzhong Xu, Xin Geng, Xu Yang.* Preprint'25
     
-1. [**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model. **](https://arxiv.org/abs/2503.05132)[[code](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)] [[model](https://huggingface.co/turningpoint-ai/VisualThinker-R1-Zero)]
-    *Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, Zhiyuan You, Jie Liu, Qipeng Zhu, Kai Yang, Xingzhong Xu, Xin Geng, Xu Yang.* 	Preprint'25
-
 1. [**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model.**](https://arxiv.org/abs/2503.05132)[[code](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)] [[model](https://huggingface.co/turningpoint-ai/VisualThinker-R1-Zero)]
     *Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, Zhiyuan You, Jie Liu, Qipeng Zhu, Kai Yang, Xingzhong Xu, Xin Geng, Xu Yang.* Preprint'25
 
 1. [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning.**](https://arxiv.org/abs/2503.05379) [[code](https://github.com/HumanMLLM/R1-Omni)] [[model](https://huggingface.co/StarJiaxing/R1-Omni-0.5B)]
-     *Jiaxing Zhao, Xihan Wei, Liefeng Bo*. Preprint'25
+    *Jiaxing Zhao, Xihan Wei, Liefeng Bo*. Preprint'25
 
 1. [**Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement.**](https://arxiv.org/abs/2503.06520) [[code](https://github.com/dvlab-research/Seg-Zero)] [[model](https://huggingface.co/Ricky06662/Seg-Zero-7B)]
      *Yuqi Liu, Bohao Peng, Zhisheng Zhong, Zihao Yue, Fanbin Lu, Bei Yu, Jiaya Jia*. Preprint'25
