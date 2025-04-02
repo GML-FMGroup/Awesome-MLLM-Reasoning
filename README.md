@@ -1,6 +1,6 @@
 # Awesome-MLLMs-Reasoning
 
-## Papers
+## Papers 📄
 
 1. **[Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models.](https://arxiv.org/abs/2411.14432)** [[code](https://github.com/dongyh20/Insight-V)] [[model](https://huggingface.co/collections/THUdyh/insight-v-673f5e1dd8ab5f2d8d332035)]
 
@@ -57,7 +57,7 @@
 
 
 
-## Benchmark & Evaluation
+## Benchmark & Evaluation🤗
 
 1. [**FigureQA: An Annotated Figure Dataset for Visual Reasoning.**](https://arxiv.org/abs/1710.07300)
     *Samira Ebrahimi Kahou, Vincent Michalski, Adam Atkinson, Akos Kadar, Adam Trischler, Yoshua Bengio.*  Preprint'17
@@ -100,7 +100,7 @@
     
     
 
-## Survey
+## Survey📖
 
 1. [**A Survey on Multimodal Benchmarks: In the Era of Large AI Models.**](https://arxiv.org/pdf/2409.18142) 
    *Lin Li, Guikun Chen, Hanrong Shi, Jun Xiao, Long Chen*. Preprint'24
@@ -109,6 +109,6 @@
 2. [**Mind with Eyes: from Language Reasoning to Multimodal Reasoning.**](https://arxiv.org/abs/2503.18071) 
    *Zhiyu Lin, Yifei Gao, Xian Zhao, Yunfan Yang, Jitao Sang.* Preprint'25
 
-## Contributing
+## Contributing⭐
 
 This is an active repository and your contributions are always welcome!
