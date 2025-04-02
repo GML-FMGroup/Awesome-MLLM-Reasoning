@@ -21,19 +21,19 @@
     *Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, Zhiyuan You, Jie Liu, Qipeng Zhu, Kai Yang, Xingzhong Xu, Xin Geng, Xu Yang.* Preprint'25
 
 1. [**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model.**](https://arxiv.org/abs/2503.05132)[[code](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)] [[model](https://huggingface.co/turningpoint-ai/VisualThinker-R1-Zero)]
-    *Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, Zhiyuan You, Jie Liu, Qipeng Zhu, Kai Yang, Xingzhong Xu, Xin Geng, Xu Yang.*Preprint'25
+    *Yingzhe Peng, Gongrui Zhang, Miaosen Zhang, Zhiyuan You, Jie Liu, Qipeng Zhu, Kai Yang, Xingzhong Xu, Xin Geng, Xu Yang.* Preprint'25
 
 1. [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning.**](https://arxiv.org/abs/2503.05379) [[code](https://github.com/HumanMLLM/R1-Omni)] [[model](https://huggingface.co/StarJiaxing/R1-Omni-0.5B)]
-    *Jiaxing Zhao, Xihan Wei, Liefeng Bo*.Preprint'25
+    *Jiaxing Zhao, Xihan Wei, Liefeng Bo*. Preprint'25
 
 1. [**Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement.**](https://arxiv.org/abs/2503.06520) [[code](https://github.com/dvlab-research/Seg-Zero)] [[model](https://huggingface.co/Ricky06662/Seg-Zero-7B)]
-    *Yuqi Liu, Bohao Peng, Zhisheng Zhong, Zihao Yue, Fanbin Lu, Bei Yu, Jiaya Jia*.Preprint'25
+    *Yuqi Liu, Bohao Peng, Zhisheng Zhong, Zihao Yue, Fanbin Lu, Bei Yu, Jiaya Jia*. Preprint'25
 
 1. [**Visual-RFT: Visual Reinforcement Fine-Tuning.**](https://arxiv.org/abs/2503.01785) [[code](https://github.com/Liuziyu77/Visual-RFT)]
-    *Ziyu Liu, Zeyi Sun, Yuhang Zang, Xiaoyi Dong, Yuhang Cao, Haodong Duan, Dahua Lin, Jiaqi Wang*.Preprint'25
+    *Ziyu Liu, Zeyi Sun, Yuhang Zang, Xiaoyi Dong, Yuhang Cao, Haodong Duan, Dahua Lin, Jiaqi Wang*. Preprint'25
 
 1. [**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning.**](https://arxiv.org/abs/2502.19634)
-    *Jiazhen Pan, Che Liu, Junde Wu, Fenglin Liu, Jiayuan Zhu, Hongwei Bran Li, Chen Chen, Cheng Ouyang, Daniel Rueckert*.Preprint'25
+    *Jiazhen Pan, Che Liu, Junde Wu, Fenglin Liu, Jiayuan Zhu, Hongwei Bran Li, Chen Chen, Cheng Ouyang, Daniel Rueckert*. Preprint'25
 
 1. [**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search.**](https://arxiv.org/abs/2412.18319)[[code](https://github.com/HJYao00/Mulberry)] 
      *Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, Shunyu Liu, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao*.Preprint'24
