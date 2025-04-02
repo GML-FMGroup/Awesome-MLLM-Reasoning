@@ -81,3 +81,5 @@
 2. [**Mind with Eyes: from Language Reasoning to Multimodal Reasoning.**](https://arxiv.org/abs/2503.18071) 
    *Zhiyu Lin, Yifei Gao, Xian Zhao, Yunfan Yang, Jitao Sang.* Preprint'25
 
+## Contributing
+This is an active repository and your contributions are always welcome!
