@@ -2,6 +2,30 @@
 
 ## Papers 📄
 
+1. **[Improved Visual-Spatial Reasoning via R1-Zero-Like Training.](https://arxiv.org/pdf/2504.00883)** [[code](https://github.com/zhijie-group/R1-Zero-VSI)] 
+    *Zhenyi Liao, Qingsong Xie, Yanhao Zhang, Zijian Kong, Haonan Lu, Zhenyu Yang, Zhijie Deng*. Preprint'25
+
+1. **[Q-Insight: Understanding Image Quality via Visual Reinforcement Learning.](https://arxiv.org/abs/2503.22679)**  [[code](https://github.com/lwq20020127/Q-Insight)] 
+    *Weiqi Li, Xuanyu Zhang, Shijie Zhao, Yabin Zhang, Junlin Li, Li Zhang, Jian Zhang*. Preprint'25
+    
+1. **[UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning.](https://arxiv.org/pdf/2503.21620)** [[code](https://github.com/lll6gg/UI-R1)] 
+    *Zhengxi Lu, Yuxiang Chai, Yaxuan Guo, Xi Yin, Liang Liu, Hao Wang, Guanjing Xiong, Hongsheng Li*. Preprint'25
+    
+1. **[Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning.](https://arxiv.org/abs/2504.00907)**
+    *Ram Ramrakhya, Matthew Chang, Xavier Puig, Ruta Desai, Zsolt Kira, Roozbeh Mottaghi.* Preprint'25
+    
+1. **[Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1.](https://arxiv.org/pdf/2503.24376)**
+    *Yi Chen, Yuying Ge, Rui Wang, Yixiao Ge, Lu Qiu, Ying Shan, Xihui Liu.* Preprint'25
+    
+1. **[Towards Automated Semantic Interpretability in Reinforcement Learning via Vision-Language Models.](https://arxiv.org/pdf/2503.16724)**
+    *Zhaoxin Li, Zhang Xi-Jia, Batuhan Altundas, Letian Chen, Rohan Paleja, Matthew Gombolay.* Preprint'25
+    
+1. **[GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing.](https://arxiv.org/abs/2503.10639)** 
+    *Rongyao Fang, Chengqi Duan, Kun Wang, Linjiang Huang, Hao Li, Shilin Yan, Hao Tian, Xingyu Zeng, Rui Zhao, Jifeng Dai, Xihui Liu, Hongsheng Li.* Preprint'25
+    
+1. **[Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme.](https://www.arxiv.org/abs/2504.02587)** [[code](https://github.com/GAIR-NLP/MAYE)]
+    *Yan Ma, Steffi Chern, Xuyang Shen, Yiran Zhong, Pengfei Liu.* Preprint'25
+    
 1. **[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.](https://arxiv.org/abs/2501.06186)** [[project](https://mbzuai-oryx.github.io/LlamaV-o1/)] [[code](https://github.com/mbzuai-oryx/LlamaV-o1)] [[model](https://huggingface.co/omkarthawakar/LlamaV-o1)]
     *Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Noor Ahsan, Yuhao Li, Mohammed Zumri, Jean Lahoud, Rao Muhammad Anwer, Hisham Cholakkal, Ivan Laptev, Mubarak Shah, Fahad Shahbaz Khan, Salman Khan.* Preprint'25
     
