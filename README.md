@@ -1,5 +1,12 @@
 # Awesome-MLLMs-Reasoning
 
+We have witnessed the tremendous potential of pure reinforcement learning (RL) in enhancing LLM reasoning capabilities, and a growing body of research is now extending this potential to the multimodal domain. This repository will continuously update the latest papers, covering how reinforcement learning techniques can optimize reasoning performance in multimodal tasks (e.g., visual question answering, cross-modal reasoning, and more).
+
+**🚀 Here, you’ll be at the forefront of "RL + MLLM Reasoning" research!**
+Whether you're a researcher, engineer, or student, this repository will help you quickly master **how RL empowers complex reasoning and decision-making in MLLMs**.
+
+Watch & Star 🌟—let’s explore the future of multimodal intelligence together!
+
 ## Papers 📄
 
 1. **[Improved Visual-Spatial Reasoning via R1-Zero-Like Training.](https://arxiv.org/pdf/2504.00883)** [[code](https://github.com/zhijie-group/R1-Zero-VSI)] 
