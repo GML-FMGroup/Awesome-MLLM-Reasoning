@@ -9,6 +9,9 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Papers 📄
 
+1. **[VisRL: Intention-Driven Visual Perception via Reinforced Reasoning.](https://arxiv.org/abs/2503.07523)** [[code](https://github.com/zhangquanchen/VisRL)] 
+    *Zhangquan Chen, Xufang Luo, Dongsheng Li.* Preprint'25
+
 1. **[Improved Visual-Spatial Reasoning via R1-Zero-Like Training.](https://arxiv.org/pdf/2504.00883)** [[code](https://github.com/zhijie-group/R1-Zero-VSI)] 
     *Zhenyi Liao, Qingsong Xie, Yanhao Zhang, Zijian Kong, Haonan Lu, Zhenyu Yang, Zhijie Deng*. Preprint'25
 
@@ -90,6 +93,9 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Benchmark & Evaluation🤗
 
+1. **[LIVEVQA: Live Visual Knowledge Seeking.](https://arxiv.org/pdf/2504.05288)** [[dataset](https://huggingface.co/papers/2504.05288)]
+    *Mingyang Fu, Yuyang Peng, Benlin Liu, Yao Wan, Dongping Chen.* CVPR 2025
+    
 1. **[MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts.](https://arxiv.org/abs/2502.20808)** [[project](https://eternal8080.github.io/MV-MATH.github.io/)] [[code](https://github.com/eternal8080/MV-MATH)]
     *Peijie Wang, Zhongzhi Li, Dekang Ran, Fei Yin, Chenglin Liu.* CVPR 2025
     
