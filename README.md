@@ -9,6 +9,9 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Papers 📄
 
+1. **[Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning.](https://arxiv.org/abs/2503.16188v2)** [[code](https://github.com/minglllli/CLS-RL)] 
+    *Ming Li, Jike Zhong, Shitian Zhao, Yuxiang Lai, Kaipeng Zhang.*Preprint'25
+
 1. **[VisRL: Intention-Driven Visual Perception via Reinforced Reasoning.](https://arxiv.org/abs/2503.07523)** [[code](https://github.com/zhangquanchen/VisRL)] 
     *Zhangquan Chen, Xufang Luo, Dongsheng Li.* Preprint'25
 
@@ -93,6 +96,10 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Benchmark & Evaluation🤗
 
+1. **[MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models.](https://arxiv.org/abs/2504.05782)** [[dataset](https://github.com/LanceZPF/MDK12)]
+    
+    *Pengfei Zhou, Fanrui Zhang, Xiaopeng Peng, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, Chuanhao Li, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You, Kaipeng Zhang.* Preprint'25
+    
 1. **[LIVEVQA: Live Visual Knowledge Seeking.](https://arxiv.org/pdf/2504.05288)** [[dataset](https://huggingface.co/papers/2504.05288)]
     *Mingyang Fu, Yuyang Peng, Benlin Liu, Yao Wan, Dongping Chen.* CVPR 2025
     
