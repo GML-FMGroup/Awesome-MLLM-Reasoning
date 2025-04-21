@@ -9,6 +9,15 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Papers 📄
 
+1. **[SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement.](https://arxiv.org/abs/2504.07934)** [[code](https://github.com/si0wang/ThinkLite-VL)] 
+    *Xiyao Wang, Zhengyuan Yang, Chao Feng, Hongjin Lu, Linjie Li, Chung-Ching Lin, Kevin Lin, Furong Huang, Lijuan Wang*. Preprint'25
+
+1. **[Perception-R1: Pioneering Perception Policy with Reinforcement Learning.](https://arxiv.org/abs/2504.07954)** [[code](https://github.com/linkangheng/PR1)] 
+    *En Yu, Kangheng Lin, Liang Zhao, Jisheng Yin, Yana Wei, Yuang Peng, Haoran Wei, Jianjian Sun, Chunrui Han, Zheng Ge, Xiangyu Zhang, Daxin Jiang, Jingyu Wang, Wenbing Tao*. Preprint'25
+
+1. **[VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning.](https://arxiv.org/abs/2504.08837)** [[project](https://tiger-ai-lab.github.io/VL-Rethinker/)] [[code](https://github.com/TIGER-AI-Lab/VL-Rethinker/)]  [[model](https://huggingface.co/TIGER-Lab/VL-Rethinker-7B)]
+    *Haozhe Wang, Chao Qu, Zuming Huang, Wei Chu, Fangzhen Lin, Wenhu Chen*. Preprint'25
+
 1. **[Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning.](https://arxiv.org/abs/2503.16188v2)** [[code](https://github.com/minglllli/CLS-RL)] 
     *Ming Li, Jike Zhong, Shitian Zhao, Yuxiang Lai, Kaipeng Zhang.*Preprint'25
 
@@ -96,8 +105,11 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Benchmark & Evaluation🤗
 
-1. **[MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models.](https://arxiv.org/abs/2504.05782)** [[dataset](https://github.com/LanceZPF/MDK12)]
+1. **[VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning.](https://arxiv.org/abs/2504.05782)** [[project](https://vlm-reasoning.github.io/VCR-Bench/)]
+   *Yukun Qi, Yiming Zhao, Yu Zeng, Xikun Bao, Wenxuan Huang, Lin Chen, Zehui Chen, Jie Zhao, Zhongang Qi, Feng Zhao.* Preprint'25
     
+1. **[MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models.](https://arxiv.org/abs/2504.05782)** [[dataset](https://github.com/LanceZPF/MDK12)]
+   
     *Pengfei Zhou, Fanrui Zhang, Xiaopeng Peng, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, Chuanhao Li, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You, Kaipeng Zhang.* Preprint'25
     
 1. **[LIVEVQA: Live Visual Knowledge Seeking.](https://arxiv.org/pdf/2504.05288)** [[dataset](https://huggingface.co/papers/2504.05288)]
