@@ -9,8 +9,17 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Papers 📄
 
+1. **[Compile Scene Graphs with Reinforcement Learning.](https://www.arxiv.org/pdf/2504.13617)** [[code](https://github.com/gpt4vision/R1-SGG)] 
+    *Zuyao Chen, Jinlin Wu, Zhen Lei, Marc Pollefeys, Chang Wen Chen.*Preprint'25
+
+1. **[NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation.](https://arxiv.org/abs/2504.13055)** [[code](https://github.com/John-AI-Lab/NoisyRollout)] 
+    *Xiangyan Liu, Jinjie Ni, Zijian Wu, Chao Du, Longxu Dou, Haonan Wang, Tianyu Pang, Michael Qizhe Shieh.*Preprint'25
+
+1. **[Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning.](https://arxiv.org/abs/2504.12680)** [[project](https://embodiedcity.github.io/Embodied-R/)] [[code](https://github.com/EmbodiedCity/Embodied-R.code)] 
+    *Baining Zhao, Ziyou Wang, Jianjie Fang, Chen Gao, Fanhang Man, Jinqiang Cui, Xin Wang, Xinlei Chen, Yong Li, Wenwu Zhu.*Preprint'25
+
 1. **[SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement.](https://arxiv.org/abs/2504.07934)** [[code](https://github.com/si0wang/ThinkLite-VL)] 
-    *Xiyao Wang, Zhengyuan Yang, Chao Feng, Hongjin Lu, Linjie Li, Chung-Ching Lin, Kevin Lin, Furong Huang, Lijuan Wang*. Preprint'25
+    *Xiyao Wang, Zhengyuan Yang, Chao Feng, Hongjin Lu, Linjie Li, Chung-Ching Lin, Kevin Lin, Furong Huang, Lijuan Wang. Preprint'25*
 
 1. **[Perception-R1: Pioneering Perception Policy with Reinforcement Learning.](https://arxiv.org/abs/2504.07954)** [[code](https://github.com/linkangheng/PR1)] 
     *En Yu, Kangheng Lin, Liang Zhao, Jisheng Yin, Yana Wei, Yuang Peng, Haoran Wei, Jianjian Sun, Chunrui Han, Zheng Ge, Xiangyu Zhang, Daxin Jiang, Jingyu Wang, Wenbing Tao*. Preprint'25
@@ -105,9 +114,17 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Benchmark & Evaluation🤗
 
+
+
+1. **[GeoSense: Evaluating Identification and Application of Geometric Principles in Multimodal Reasoning.](https://arxiv.org/abs/2504.12597)** 
+   *Liangyu Xu, Yingxiu Zhao, Jingyun Wang, Yingyao Wang, Bu Pi, Chen Wang, Mingliang Zhang, Jihao Gu, Xiang Li, Xiaoyong Zhu, Jun Song, Bo Zheng.*Preprint'25
+   
+1. **[VGRP-Bench: Visual Grid Reasoning Puzzle Benchmark for Large Vision-Language Models.](https://arxiv.org/abs/2503.23064)** [[project](https://yufan-ren.com/subpage/VGRP-Bench/)] [[code](https://github.com/ryf1123/VGRP-Bench)] [[dataset](https://huggingface.co/datasets/VGRP-Bench/VGRP-Bench)]
+   *Yufan Ren, Konstantinos Tertikas, Shalini Maiti, Junlin Han, Tong Zhang, Sabine Süsstrunk, Filippos Kokkinos.*Preprint'25
+   
 1. **[VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning.](https://arxiv.org/abs/2504.05782)** [[project](https://vlm-reasoning.github.io/VCR-Bench/)]
    *Yukun Qi, Yiming Zhao, Yu Zeng, Xikun Bao, Wenxuan Huang, Lin Chen, Zehui Chen, Jie Zhao, Zhongang Qi, Feng Zhao.* Preprint'25
-    
+   
 1. **[MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models.](https://arxiv.org/abs/2504.05782)** [[dataset](https://github.com/LanceZPF/MDK12)]
    
     *Pengfei Zhou, Fanrui Zhang, Xiaopeng Peng, Zhaopan Xu, Jiaxin Ai, Yansheng Qiu, Chuanhao Li, Zhen Li, Ming Li, Yukang Feng, Jianwen Sun, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Wangbo Zhao, Kai Wang, Xiaojun Chang, Wenqi Shao, Yang You, Kaipeng Zhang.* Preprint'25
@@ -138,6 +155,9 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 1. [**BLINK: Multimodal Large Language Models Can See but Not Perceive.**](https://arxiv.org/abs/2404.12390) [[project](https://zeyofu.github.io/blink/)] [[code](https://github.com/zeyofu/BLINK_Benchmark)] [[dataset](https://huggingface.co/datasets/BLINK-Benchmark/BLINK)]
     *Xingyu Fu, Yushi Hu, Bangzheng Li, Yu Feng, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, Wei-Chiu Ma, Ranjay Krishna*. ECCV 2024
+
+1. **[HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks.](https://arxiv.org/abs/2410.12381)** [[code](https://github.com/HumanEval-V/HumanEval-V-Benchmark)] 
+    *Fengji Zhang, Linquan Wu, Huiyu Bai, Guancheng Lin, Xiao Li, Xiao Yu, Yue Wang, Bei Chen, Jacky Keung.* Preprint'24
 
 1. [**SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension.**](https://arxiv.org/abs/2307.16125) [[code](https://github.com/AILab-CVC/SEED-Bench)]
     *Bohao Li, Rui Wang, Guangzhi Wang, Yuying Ge, Yixiao Ge, Ying Shan*. Preprint'23
