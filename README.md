@@ -16,7 +16,7 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
     *Xiangyan Liu, Jinjie Ni, Zijian Wu, Chao Du, Longxu Dou, Haonan Wang, Tianyu Pang, Michael Qizhe Shieh.* Preprint'25
 
 1. **[Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning.](https://arxiv.org/abs/2504.12680)** [[project](https://embodiedcity.github.io/Embodied-R/)] [[code](https://github.com/EmbodiedCity/Embodied-R.code)] 
-    *Baining Zhao, Ziyou Wang, Jianjie Fang, Chen Gao, Fanhang Man, Jinqiang Cui, Xin Wang, Xinlei Chen, Yong Li, Wenwu Zhu.*Preprint'25
+    *Baining Zhao, Ziyou Wang, Jianjie Fang, Chen Gao, Fanhang Man, Jinqiang Cui, Xin Wang, Xinlei Chen, Yong Li, Wenwu Zhu.* Preprint'25
 
 1. **[SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement.](https://arxiv.org/abs/2504.07934)** [[code](https://github.com/si0wang/ThinkLite-VL)] 
     *Xiyao Wang, Zhengyuan Yang, Chao Feng, Hongjin Lu, Linjie Li, Chung-Ching Lin, Kevin Lin, Furong Huang, Lijuan Wang. Preprint'25*
@@ -28,7 +28,7 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
     *Haozhe Wang, Chao Qu, Zuming Huang, Wei Chu, Fangzhen Lin, Wenhu Chen*. Preprint'25
 
 1. **[Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning.](https://arxiv.org/abs/2503.16188v2)** [[code](https://github.com/minglllli/CLS-RL)] 
-    *Ming Li, Jike Zhong, Shitian Zhao, Yuxiang Lai, Kaipeng Zhang.*Preprint'25
+    *Ming Li, Jike Zhong, Shitian Zhao, Yuxiang Lai, Kaipeng Zhang.* Preprint'25
 
 1. **[VisRL: Intention-Driven Visual Perception via Reinforced Reasoning.](https://arxiv.org/abs/2503.07523)** [[code](https://github.com/zhangquanchen/VisRL)] 
     *Zhangquan Chen, Xufang Luo, Dongsheng Li.* Preprint'25
@@ -120,7 +120,7 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
    *Liangyu Xu, Yingxiu Zhao, Jingyun Wang, Yingyao Wang, Bu Pi, Chen Wang, Mingliang Zhang, Jihao Gu, Xiang Li, Xiaoyong Zhu, Jun Song, Bo Zheng.* Preprint'25
    
 1. **[VGRP-Bench: Visual Grid Reasoning Puzzle Benchmark for Large Vision-Language Models.](https://arxiv.org/abs/2503.23064)** [[project](https://yufan-ren.com/subpage/VGRP-Bench/)] [[code](https://github.com/ryf1123/VGRP-Bench)] [[dataset](https://huggingface.co/datasets/VGRP-Bench/VGRP-Bench)]
-   *Yufan Ren, Konstantinos Tertikas, Shalini Maiti, Junlin Han, Tong Zhang, Sabine Süsstrunk, Filippos Kokkinos.*Preprint'25
+   *Yufan Ren, Konstantinos Tertikas, Shalini Maiti, Junlin Han, Tong Zhang, Sabine Süsstrunk, Filippos Kokkinos.* Preprint'25
    
 1. **[VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning.](https://arxiv.org/abs/2504.05782)** [[project](https://vlm-reasoning.github.io/VCR-Bench/)]
    *Yukun Qi, Yiming Zhao, Yu Zeng, Xikun Bao, Wenxuan Huang, Lin Chen, Zehui Chen, Jie Zhao, Zhongang Qi, Feng Zhao.* Preprint'25
