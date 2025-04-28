@@ -1,4 +1,4 @@
-# Awesome-MLLMs-Reasoning
+# Awesome-MLLM-Reasoning
 
 We have witnessed the tremendous potential of pure reinforcement learning (RL) in enhancing LLM reasoning capabilities, and a growing body of research is now extending this potential to the multimodal domain. This repository will continuously update the latest papers, covering how reinforcement learning techniques can optimize reasoning performance in multimodal tasks (e.g., visual question answering, cross-modal reasoning, and more).
 
