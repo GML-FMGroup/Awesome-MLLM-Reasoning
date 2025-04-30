@@ -9,6 +9,15 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Papers 📄
 
+1. **[SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models.](https://arxiv.org/abs/2504.11468)** [[project](https://ucsc-vlaa.github.io/VLAA-Thinking/)] [[code](https://github.com/UCSC-VLAA/VLAA-Thinking)] [[dataset](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)]
+    *Hardy Chen, Haoqin Tu, Fali Wang, Hui Liu, Xianfeng Tang, Xinya Du, Yuyin Zhou, Cihang Xie.*  Preprint'25
+
+1. **[Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning.](https://arxiv.org/abs/2504.16656)**  [[code](https://huggingface.co/Skywork/Skywork-R1V2-38B)] 
+    *Chris, Yichen Wei, Yi Peng, Xiaokun Wang, Weijie Qiu, Wei Shen, Tianyidan Xie, Jiangbo Pei, Jianhao Zhang, Yunzhuo Hao, Xuchen Song, Yang Liu, Yahui Zhou*. Preprint'25
+
+1. **[Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding.](https://arxiv.org/abs/2502.11492)** [[code](https://github.com/SalesforceAIResearch/CogAlign)] 
+    Kung-Hsiang Huang, Can Qin, Haoyi Qiu, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu
+
 1. **[Compile Scene Graphs with Reinforcement Learning.](https://www.arxiv.org/pdf/2504.13617)** [[code](https://github.com/gpt4vision/R1-SGG)] 
     *Zuyao Chen, Jinlin Wu, Zhen Lei, Marc Pollefeys, Chang Wen Chen.* Preprint'25
 
@@ -116,6 +125,30 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 
 
+1. **[VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge.](https://arxiv.org/abs/2504.10342)** [[project](https://neulab.github.io/VisualPuzzles/)] [[code](https://github.com/neulab/VisualPuzzles)] [[dataset](https://huggingface.co/datasets/neulab/VisualPuzzles)]
+   *Yueqi Song, Tianyue Ou, Yibo Kong, Zecheng Li, Graham Neubig, Xiang Yue.*  Preprint'25
+   
+1. **[V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models.](https://arxiv.org/pdf/2504.06148)**  [[code](https://github.com/CSU-JPG/V-MAGE)] 
+   *Xiangxi Zheng, Linjie Li, Zhengyuan Yang, Ping Yu, Alex Jinpeng Wang, Rui Yan, Yuan Yao, Lijuan Wang.*  Preprint'25
+   
+1. **[CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation.](https://arxiv.org/pdf/2504.00043)** [[code](https://github.com/SeanLeng1/CrossWordBench)] [[dataset](https://huggingface.co/datasets/HINT-lab/CrossWordBench)]
+   *Jixuan Leng, Chengsong Huang, Langlin Huang, Bill Yuchen Lin, William W. Cohen, Haohan Wang, Jiaxin Huang.*  Preprint'25
+   
+1. **[Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency.](https://www.arxiv.org/abs/2504.18589)**
+   *Zhikai Wang, Jiashuo Sun, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao.*  Preprint'25
+   
+1. **[VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models.](https://arxiv.org/abs/2504.15279)** [[project](https://visulogic-benchmark.github.io/VisuLogic/)] [[code](https://github.com/VisuLogic-Benchmark/VisuLogic-Train)] [[dataset](https://huggingface.co/datasets/VisuLogic/VisuLogic)]
+   *Weiye Xu, Jiahao Wang, Weiyun Wang, Zhe Chen, Wengang Zhou, Aijun Yang, Lewei Lu, Houqiang Li, Xiaohua Wang, Xizhou Zhu, Wenhai Wang, Jifeng Dai, Jinguo Zhu.* Preprint'25
+   
+1. **[Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation.](https://www.arxiv.org/abs/2504.17207)** [[project](https://apc-vlm.github.io/)] [[code](https://github.com/KAIST-Visual-AI-Group/APC-VLM)]
+   *Phillip Y. Lee, Jihyeon Je, Chanho Park, Mikaela Angelina Uy, Leonidas Guibas, Minhyuk Sung*  Preprint'25
+   
+1. **[Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark.](https://arxiv.org/abs/2504.16427)**  [[code](https://github.com/thuiar/MMLA)] 
+   *Hanlei Zhang, Zhuohang Li, Yeshuang Zhu, Hua Xu, Peiwu Wang, Haige Zhu, Jie Zhou, Jinchao Zhang.* Preprint'25
+   
+1. **[ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering.](https://arxiv.org/abs/2504.05506)** [[code](https://github.com/vis-nlp/ChartQAPro)] 
+   *Ahmed Masry, Mohammed Saidul Islam, Mahir Ahmed, Aayush Bajaj, Firoz Kabir, Aaryaman Kartha, Md Tahmid Rahman Laskar, Mizanur Rahman, Shadikur Rahman, Mehrad Shahmohammadi, Megh Thakkar, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty.* Preprint'25
+   
 1. **[GeoSense: Evaluating Identification and Application of Geometric Principles in Multimodal Reasoning.](https://arxiv.org/abs/2504.12597)** 
    *Liangyu Xu, Yingxiu Zhao, Jingyun Wang, Yingyao Wang, Bu Pi, Chen Wang, Mingliang Zhang, Jihao Gu, Xiang Li, Xiaoyong Zhu, Jun Song, Bo Zheng.* Preprint'25
    
