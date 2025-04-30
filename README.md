@@ -16,7 +16,7 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
     *Chris, Yichen Wei, Yi Peng, Xiaokun Wang, Weijie Qiu, Wei Shen, Tianyidan Xie, Jiangbo Pei, Jianhao Zhang, Yunzhuo Hao, Xuchen Song, Yang Liu, Yahui Zhou*. Preprint'25
 
 1. **[Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding.](https://arxiv.org/abs/2502.11492)** [[code](https://github.com/SalesforceAIResearch/CogAlign)] 
-    Kung-Hsiang Huang, Can Qin, Haoyi Qiu, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu
+    *Kung-Hsiang Huang, Can Qin, Haoyi Qiu, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu.* Preprint'25
 
 1. **[Compile Scene Graphs with Reinforcement Learning.](https://www.arxiv.org/pdf/2504.13617)** [[code](https://github.com/gpt4vision/R1-SGG)] 
     *Zuyao Chen, Jinlin Wu, Zhen Lei, Marc Pollefeys, Chang Wen Chen.* Preprint'25
