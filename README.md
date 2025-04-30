@@ -125,6 +125,30 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 
 
+1. **[MAPS: Advancing Multi-Modal Reasoning in Expert-Level Physical Science.](https://arxiv.org/abs/2501.10768)** 
+   *Erle Zhu, Yadi Liu, Zhe Zhang, Xujun Li, Jin Zhou, Xinjie Yu, Minlie Huang, Hongning Wang.* Preprint'25
+   
+1. **[VisFactor: Benchmarking Fundamental Visual Cognition in Multimodal Large Language Models.](https://arxiv.org/abs/2502.16435)**  [[code](https://github.com/CUHK-ARISE/VisFactor)]
+   *Jen-Tse Huang, Dasen Dai, Jen-Yuan Huang, Youliang Yuan, Xiaoyuan Liu, Wenxuan Wang, Wenxiang Jiao, Pinjia He, Zhaopeng Tu.* Preprint'25
+   
+1. **[Are Large Vision Language Models Good Game Players?](https://www.arxiv.org/abs/2503.02358)**  [[code](https://github.com/xinke-wang/LVLM-Playground)]
+   *Xinyu Wang, Bohan Zhuang, Qi Wu.* Preprint'25
+   
+1. **[VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models.](https://arxiv.org/abs/2504.15279)**  [[project](https://visulogic-benchmark.github.io/VisuLogic/)] [[code](https://github.com/VisuLogic-Benchmark/VisuLogic-Train)] [[dataset](https://huggingface.co/datasets/VisuLogic/VisuLogic)]
+   *Weiye Xu, Jiahao Wang, Weiyun Wang, Zhe Chen, Wengang Zhou, Aijun Yang, Lewei Lu, Houqiang Li, Xiaohua Wang, Xizhou Zhu, Wenhai Wang, Jifeng Dai, Jinguo Zhu.* Preprint'25
+   
+1. **[EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges.](https://arxiv.org/pdf/2502.08859)**  [[project](https://scale.com/leaderboard/enigma_eval)]
+   *Clinton J. Wang, Dean Lee, Cristina Menghini, Johannes Mols, Jack Doughty, Adam Khoja, Jayson Lynch, Sean Hendryx, Summer Yue, Dan Hendrycks.* Preprint'25
+   
+1. **[NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models.](https://arxiv.org/abs/2407.10380)** 
+   *Pranshu Pandya, Vatsal Gupta, Agney S Talwarr, Tushar Kataria, Dan Roth, Vivek Gupta.* Preprint'25
+   
+1. **[Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models.](https://arxiv.org/abs/2503.19707)**  [[code](https://github.com/stogiannidis/srbench)] [[dataset](https://huggingface.co/datasets/stogiannidis/srbench)]
+   *Ilias Stogiannidis, Steven McDonagh, Sotirios A. Tsaftaris.*  Preprint'25
+   
+1. **[Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark.](https://arxiv.org/abs/2501.05444)** [[project](https://emma-benchmark.github.io/)] [[code](https://github.com/hychaochao/EMMA)] [[dataset](https://huggingface.co/datasets/luckychao/EMMA)]
+   *Yunzhuo Hao, Jiawei Gu, Huichen Will Wang, Linjie Li, Zhengyuan Yang, Lijuan Wang, Yu Cheng.* Preprint'25
+   
 1. **[VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge.](https://arxiv.org/abs/2504.10342)** [[project](https://neulab.github.io/VisualPuzzles/)] [[code](https://github.com/neulab/VisualPuzzles)] [[dataset](https://huggingface.co/datasets/neulab/VisualPuzzles)]
    *Yueqi Song, Tianyue Ou, Yibo Kong, Zecheng Li, Graham Neubig, Xiang Yue.*  Preprint'25
    
@@ -183,15 +207,40 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 1. [**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.**](https://arxiv.org/abs/2310.02255) [[project](https://mathvista.github.io/)] 
     *Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao.* ICLR 2024
 
+1. [**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark.**](https://arxiv.org/abs/2408.07543) [[code](https://github.com/PKU-Baichuan-MLSystemLab/MathScape)] 
+    *Minxuan Zhou, Hao Liang, Tianpeng Li, Zhiyu Wu, Mingan Lin, Linzhuang Sun, Yaqi Zhou, Yan Zhang, Xiaoqin Huang, Yicong Chen, Yujing Qiao, Weipeng Chen, Bin Cui, Wentao Zhang, Zenan Zhou* Preprint'24
+
 1. [**Template-Driven LLM-Paraphrased Framework for Tabular Math Word Problem Generation.**](https://arxiv.org/abs/2412.15594v1) [[project](https://acechq.github.io/MMIQ-benchmark/)] [[code](https://github.com/AceCHQ/MMIQ/tree/main/)] [[dataset](https://huggingface.co/datasets/huanqia/MM-IQ)]
     *Xiaoqiang Kang, Zimu Wang, Xiaobo Jin, Wei Wang, Kaizhu Huang, Qiufeng Wang.* Preprint'24
+
+1. **[How Far Are We from Intelligent Visual Deductive Reasoning?](https://arxiv.org/abs/2403.04732)** 
+    *Yizhe Zhang, He Bai, Ruixiang Zhang, Jiatao Gu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly.* Preprint'24
+
+1. [**Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset.**](https://arxiv.org/abs/2402.14804) [[project](https://mathllm.github.io/mathvision/)] [[code](https://github.com/mathllm/MATH-V)] [[dataset](https://huggingface.co/datasets/MathLLMs/MathVision)]
+    *Ke Wang, Junting Pan, Weikang Shi, Zimu Lu, Mingjie Zhan, Hongsheng Li* Preprint'24
+
+1. **[VisAidMath: Benchmarking Visual-Aided Mathematical Reasoning.](https://arxiv.org/abs/2410.22995)** 
+    *Jingkun Ma, Runzhe Zhan, Derek F. Wong, Yang Li, Di Sun, Hou Pong Chan, Lidia S. Chao.* Preprint'24
+
+1. [**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**](Renrui Zhang, Dongzhi Jiang, Yichi Zhang, Haokun Lin, Ziyu Guo, Pengshuo Qiu, Aojun Zhou, Pan Lu, Kai-Wei Chang, Peng Gao, Hongsheng Li) [[project](https://mathverse-cuhk.github.io/)] 
+    *Ke Wang, Junting Pan, Weikang Shi, Zimu Lu, Mingjie Zhan, Hongsheng Li* . *ECCV 2024*
 
 1. [**BLINK: Multimodal Large Language Models Can See but Not Perceive.**](https://arxiv.org/abs/2404.12390) [[project](https://zeyofu.github.io/blink/)] [[code](https://github.com/zeyofu/BLINK_Benchmark)] [[dataset](https://huggingface.co/datasets/BLINK-Benchmark/BLINK)]
     *Xingyu Fu, Yushi Hu, Bangzheng Li, Yu Feng, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, Wei-Chiu Ma, Ranjay Krishna*. ECCV 2024
 
+1. [**Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models.**](https://arxiv.org/abs/2406.17294) [[code](https://github.com/HZQ950419/Math-LLaVA)]
+    *Wenhao Shi, Zhiqiang Hu, Yi Bin, Junhua Liu, Yang Yang, See-Kiong Ng, Lidong Bing, Roy Ka-Wei Lee.* Preprint'24
+
 1. **[HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks.](https://arxiv.org/abs/2410.12381)** [[code](https://github.com/HumanEval-V/HumanEval-V-Benchmark)] 
     *Fengji Zhang, Linquan Wu, Huiyu Bai, Guancheng Lin, Xiao Li, Xiao Yu, Yue Wang, Bei Chen, Jacky Keung.* Preprint'24
 
+1. **[FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts.](https://arxiv.org/abs/2406.19237)** 
+    *Shubhankar Singh, Purvi Chaurasia, Yerram Varun, Pranshu Pandya, Vatsal Gupta, Vivek Gupta, Dan Roth.* Preprint'24
+
+1. **[GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training.](https://arxiv.org/abs/2412.11863)** [[code](https://github.com/Alpha-Innovator/GeoX)] 
+    
+    *Renqiu Xia, Mingsheng Li, Hancheng Ye, Wenjie Wu, Hongbin Zhou, Jiakang Yuan, Tianshuo Peng, Xinyu Cai, Xiangchao Yan, Bin Wang, Conghui He, Botian Shi, Tao Chen, Junchi Yan, Bo Zhang.* Preprint'24
+    
 1. [**SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension.**](https://arxiv.org/abs/2307.16125) [[code](https://github.com/AILab-CVC/SEED-Bench)]
     *Bohao Li, Rui Wang, Guangzhi Wang, Yuying Ge, Yixiao Ge, Ying Shan*. Preprint'23
 
