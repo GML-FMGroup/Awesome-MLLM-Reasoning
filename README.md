@@ -9,6 +9,18 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Papers 📄
 
+1. **[Flow-GRPO: Training Flow Matching Models via Online RL.](https://www.arxiv.org/abs/2505.05470)** [[code](https://github.com/yifan123/flow_grpo)]
+    *Jie Liu, Gongye Liu, Jiajun Liang, Yangguang Li, Jiaheng Liu, Xintao Wang, Pengfei Wan, Di Zhang, Wanli Ouyang.* Preprint'25
+
+1. **[X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains.](https://arxiv.org/abs/2505.03981)** [[code](https://github.com/microsoft/x-reasoner)]
+    *Qianchu Liu, Sheng Zhang, Guanghui Qin, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, Hoifung Poon.* Preprint'25
+
+1. **[T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT.](https://arxiv.org/abs/2505.00703)** [[code](https://github.com/CaraJ7/T2I-R1)]
+    *Dongzhi Jiang, Ziyu Guo, Renrui Zhang, Zhuofan Zong, Hao Li, Le Zhuo, Shilin Yan, Pheng-Ann Heng, Hongsheng Li.* Preprint'25
+
+1. **[Fast-Slow Thinking for Large Vision-Language Model Reasoning.](https://arxiv.org/abs/2504.18458)** 
+    *Wenyi Xiao, Leilei Gan, Weilong Dai, Wanggui He, Ziwei Huang, Haoyuan Li, Fangxun Shu, Zhelun Yu, Peng Zhang, Hao Jiang, Fei Wu.* Preprint'25
+
 1. **[SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models.](https://arxiv.org/abs/2504.11468)** [[project](https://ucsc-vlaa.github.io/VLAA-Thinking/)] [[code](https://github.com/UCSC-VLAA/VLAA-Thinking)] [[dataset](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)]
     *Hardy Chen, Haoqin Tu, Fali Wang, Hui Liu, Xianfeng Tang, Xinya Du, Yuyin Zhou, Cihang Xie.*  Preprint'25
 
@@ -238,7 +250,7 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
     *Shubhankar Singh, Purvi Chaurasia, Yerram Varun, Pranshu Pandya, Vatsal Gupta, Vivek Gupta, Dan Roth.* Preprint'24
 
 1. **[GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training.](https://arxiv.org/abs/2412.11863)** [[code](https://github.com/Alpha-Innovator/GeoX)] 
-    
+   
     *Renqiu Xia, Mingsheng Li, Hancheng Ye, Wenjie Wu, Hongbin Zhou, Jiakang Yuan, Tianshuo Peng, Xinyu Cai, Xiangchao Yan, Bin Wang, Conghui He, Botian Shi, Tao Chen, Junchi Yan, Bo Zhang.* Preprint'24
     
 1. [**SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension.**](https://arxiv.org/abs/2307.16125) [[code](https://github.com/AILab-CVC/SEED-Bench)]
@@ -250,7 +262,7 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 1. [**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering.**](http://arxiv.org/abs/2209.09513) [[code](https://github.com/lupantech/ScienceQA)]
      *Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan.* NeurIPS 2022
 
-1. [***GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning*.**](https://arxiv.org/abs/2105.14517)  [[code](https://github.com/chen-judge/GeoQA)]
+1. [**GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning.**](https://arxiv.org/abs/2105.14517)  [[code](https://github.com/chen-judge/GeoQA)]
      *Jiaqi Chen, Jianheng Tang, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric P. Xing, Liang Lin.* Preprint'21
 
 1. [**FigureQA: An Annotated Figure Dataset for Visual Reasoning.**](https://arxiv.org/abs/1710.07300)
@@ -260,6 +272,8 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Survey📖
 
+1. [**Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models.**](https://arxiv.org/abs/2505.04921)  [[code](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)] 
+   *Yunxin Li, Zhenyu Liu, Zitao Li, Xuanyu Zhang, Zhenran Xu, Xinyu Chen, Haoyuan Shi, Shenyuan Jiang, Xintong Wang, Jifang Wang, Shouzheng Huang, Xinping Zhao, Borui Jiang, Lanqing Hong, Longyue Wang, Zhuotao Tian, Baoxing Huai, Wenhan Luo, Weihua Luo, Zheng Zhang, Baotian Hu, Min Zhang.* Preprint'25
 1. [**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.**](https://arxiv.org/abs/2503.12605)  [[code](http://github.com/yaotingwangofficial/Awesome-MCoT)] 
    *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, William Wang, Ziwei Liu, Jiebo Luo, Hao Fei*. Preprint'25
 2. [**Mind with Eyes: from Language Reasoning to Multimodal Reasoning.**](https://arxiv.org/abs/2503.18071) 
