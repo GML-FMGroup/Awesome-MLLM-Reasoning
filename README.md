@@ -9,6 +9,24 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Papers 📄
 
+1. **[STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs.](https://arxiv.org/abs/2505.15804)**  [[code](https://github.com/zongzhao23/STAR-R1)]
+    *Zongzhao Li, Zongyang Ma, Mingze Li, Songyou Li, Yu Rong, Tingyang Xu, Ziqi Zhang, Deli Zhao, Wenbing Huang*. Preprint'25
+
+1. **[Visual Agentic Reinforcement Fine-Tuning.](https://arxiv.org/abs/2505.14246)** [[code](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)]
+    *Ziyu Liu, Yuhang Zang, Yushan Zou, Zijian Liang, Xiaoyi Dong, Yuhang Cao, Haodong Duan, Dahua Lin, Jiaqi Wang.* Preprint'25
+
+1. **[Visual Planning: Let's Think Only with Images.](https://arxiv.org/abs/2505.11409)**  [[code](https://github.com/yix8/VisualPlanning)]
+    *Yi Xu, Chengzu Li, Han Zhou, Xingchen Wan, Caiqi Zhang, Anna Korhonen, Ivan Vulić.* Preprint'25
+
+1. **[GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning.](https://arxiv.org/pdf/2505.11049)**
+    *Yue Liu, Shengfang Zhai, Mingzhe Du, Yulin Chen, Tri Cao, Hongcheng Gao, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi.* Preprint'25
+
+1. **[OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning.](https://arxiv.org/abs/2505.08617)**  [[code](https://github.com/zhaochen0110/OpenThinkIMG)]
+    *Zhaochen Su, Linjie Li, Mingyang Song, Yunzhuo Hao, Zhengyuan Yang, Jun Zhang, Guanjie Chen, Jiawei Gu, Juntao Li, Xiaoye Qu, Yu Cheng.* Preprint'25
+
+1. **[DanceGRPO: Unleashing GRPO on Visual Generation.](https://arxiv.org/abs/2505.07818)** [[project](https://dancegrpo.github.io/)] [[code](https://github.com/XueZeyue/DanceGRPO)]
+    *Zeyue Xue, Jie Wu, Yu Gao, Fangyuan Kong, Lingting Zhu, Mengzhao Chen, Zhiheng Liu, Wei Liu, Qiushan Guo, Weilin Huang, Ping Luo.* Preprint'25
+
 1. **[Flow-GRPO: Training Flow Matching Models via Online RL.](https://www.arxiv.org/abs/2505.05470)** [[code](https://github.com/yifan123/flow_grpo)]
     *Jie Liu, Gongye Liu, Jiajun Liang, Yangguang Li, Jiaheng Liu, Xintao Wang, Pengfei Wan, Di Zhang, Wanli Ouyang.* Preprint'25
 
@@ -137,6 +155,12 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 
 
+1. **[LMGAME-BENCH: How Good are LLMs at Playing Games?](https://arxiv.org/pdf/2505.15146)** 
+   *Lanxiang Hu, Mingjia Huo, Yuxuan Zhang, Haoyang Yu, Eric P. Xing, Ion Stoica, Tajana Rosing, Haojian Jin, Hao Zhang.* Preprint'25
+   
+1. **[GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling.](https://www.arxiv.org/abs/2505.00063)** 
+   *Siqi Li, Yufan Shen, Xiangnan Chen, Jiayi Chen, Hengwei Ju, Haodong Duan, Song Mao, Hongbin Zhou, Bo Zhang, Pinlong Cai, Licheng Wen, Botian Shi, Yong Liu, Xinyu Cai, Yu Qiao.* Preprint'25
+   
 1. **[MAPS: Advancing Multi-Modal Reasoning in Expert-Level Physical Science.](https://arxiv.org/abs/2501.10768)** 
    *Erle Zhu, Yadi Liu, Zhe Zhang, Xujun Li, Jin Zhou, Xinjie Yu, Minlie Huang, Hongning Wang.* Preprint'25
    
