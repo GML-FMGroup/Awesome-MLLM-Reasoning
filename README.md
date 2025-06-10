@@ -9,6 +9,15 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Papers 📄
 
+1. **[SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis.](https://www.arxiv.org/abs/2506.02096)** [[code](https://github.com/NUS-TRAIL/SynthRL)] [[model](https://huggingface.co/collections/Jakumetsu/synthrl-6839d265136fa9ca717105c5)]
+    *Zijian Wu, Jinjie Ni, Xiangyan Liu, Zichen Liu, Hang Yan, Michael Qizhe Shieh.* Preprint'25
+
+1. **[Don't Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation.](https://arxiv.org/abs/2505.18842)** 
+    Jiwan Chung, Junhyeok Kim, Siyeol Kim, Jaeyoung Lee, Min Soo Kim, Youngjae Yu. Preprint'25
+
+1. **[More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models.](https://arxiv.org/abs/2505.21523)**  [[project](https://mlrm-halu.github.io/)]
+    *Chengzhi Liu, Zhongxing Xu, Qingyue Wei, Juncheng Wu, James Zou, Xin Eric Wang, Yuyin Zhou, Sheng Liu.* Preprint'25
+
 1. **[STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs.](https://arxiv.org/abs/2505.15804)**  [[code](https://github.com/zongzhao23/STAR-R1)]
     *Zongzhao Li, Zongyang Ma, Mingze Li, Songyou Li, Yu Rong, Tingyang Xu, Ziqi Zhang, Deli Zhao, Wenbing Huang*. Preprint'25
 
@@ -155,6 +164,21 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 
 
+1. **[Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence.](https://arxiv.org/abs/2505.23747)**  [[project](https://diankun-wu.github.io/Spatial-MLLM/)]
+   *Diankun Wu, Fangfu Liu, Yi-Hsin Hung, Yueqi Duan.* Preprint'25
+   
+1. **[MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs.](https://arxiv.org/abs/2505.21327)**  [[project](https://alpha-innovator.github.io/mmereasoning.github.io/)]
+   *Jiakang Yuan, Tianshuo Peng, Yilei Jiang, Yiting Lu, Renrui Zhang, Kaituo Feng, Chaoyou Fu, Tao Chen, Lei Bai, Bo Zhang, Xiangyu Yue.* Preprint'25
+   
+1. **[MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks.](https://arxiv.org/abs/2505.16459)**  [[project](https://mmmr-benchmark.github.io/)]
+   *Guiyao Tie, Xueyang Zhou, Tianhe Gu, Ruihang Zhang, Chaoran Hu, Sizhe Zhang, Mengqu Sun, Yan Zhang, Pan Zhou, Lichao Sun.* Preprint'25
+   
+1. **[VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection.](https://www.arxiv.org/abs/2505.20289)**  [[project](https://oodbag.github.io/vista_web/)]
+   *Zeyi Huang, Yuyang Ji, Anirudh Sundara Rajan, Zefan Cai, Wen Xiao, Junjie Hu, Yong Jae Lee.* Preprint'25
+   
+1. **[RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs.](https://arxiv.org/abs/2505.16770)**  [[project](https://evalmodels.github.io/rbenchv/)]
+   *Meng-Hao Guo, Xuanyu Chu, Qianrui Yang, Zhe-Han Mo, Yiqing Shen, Pei-lin Li, Xinjie Lin, Jinnian Zhang, Xin-Sheng Chen, Yi Zhang, Kiyohiro Nakayama, Zhengyang Geng, Houwen Peng, Han Hu, Shi-Min Hu.* Preprint'25
+   
 1. **[LMGAME-BENCH: How Good are LLMs at Playing Games?](https://arxiv.org/pdf/2505.15146)** 
    *Lanxiang Hu, Mingjia Huo, Yuxuan Zhang, Haoyang Yu, Eric P. Xing, Ion Stoica, Tajana Rosing, Haojian Jin, Hao Zhang.* Preprint'25
    
