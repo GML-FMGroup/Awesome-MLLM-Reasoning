@@ -9,8 +9,26 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Papers 📄
 
+1. **[ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning.](https://arxiv.org/abs/2506.03596)** [[code](https://github.com/Maplebb/ControlThinker)]
+    *Feng Han, Yang Jiao, Shaoxiang Chen, Junhao Xu, Jingjing Chen, Yu-Gang Jiang.* Preprint'25
+
+1. **[Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning.](https://arxiv.org/abs/2506.04034)**  [[project](https://rexthinker.github.io/)]
+    *Qing Jiang, Xingyu Chen, Zhaoyang Zeng, Junzhi Yu, Lei Zhang.* Preprint'25
+
+1. **[Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning.](https://arxiv.org/abs/2506.04207)** [[code](https://github.com/CSfufu/Revisual-R1)]
+    *Shuang Chen, Yue Guo, Zhaochen Su, Yafu Li, Yulun Wu, Jiacheng Chen, Jiayu Chen, Weijie Wang, Xiaoye Qu, Yu Cheng.* Preprint'25
+
+1. **[ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs.](https://arxiv.org/abs/2506.10128)** [[code](https://github.com/si0wang/ViCrit)]
+    *Xiyao Wang, Zhengyuan Yang, Chao Feng, Yongyuan Liang, Yuhang Zhou, Xiaoyu Liu, Ziyi Zang, Ming Li, Chung-Ching Lin, Kevin Lin, Linjie Li, Furong Huang, Lijuan Wang.* Preprint'25
+
+1. **[Play to Generalize: Learning to Reason Through Game Play.](https://arxiv.org/abs/2506.08011)** [[project](https://yunfeixie233.github.io/ViGaL/)]
+    *Yunfei Xie, Yinsong Ma, Shiyi Lan, Alan Yuille, Junfei Xiao, Chen Wei.* Preprint'25
+
 1. **[SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis.](https://www.arxiv.org/abs/2506.02096)** [[code](https://github.com/NUS-TRAIL/SynthRL)] [[model](https://huggingface.co/collections/Jakumetsu/synthrl-6839d265136fa9ca717105c5)]
     *Zijian Wu, Jinjie Ni, Xiangyan Liu, Zichen Liu, Hang Yan, Michael Qizhe Shieh.* Preprint'25
+
+1. **[Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning.](https://arxiv.org/abs/2506.04559)** [[code](https://github.com/gyhdog99/RACRO2/)]
+    *Yunhao Gou, Kai Chen, Zhili Liu, Lanqing Hong, Xin Jin, Zhenguo Li, James T. Kwok, Yu Zhang.* Preprint'25
 
 1. **[Don't Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation.](https://arxiv.org/abs/2505.18842)** 
     Jiwan Chung, Junhyeok Kim, Siyeol Kim, Jaeyoung Lee, Min Soo Kim, Youngjae Yu. Preprint'25
@@ -320,6 +338,8 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 
 ## Survey📖
 
+1. [**Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models.**](https://arxiv.org/abs/2505.18536)  [[code](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)] 
+   *Haoyuan Sun, Jiaqi Wu, Bo Xia, Yifu Luo, Yifei Zhao, Kai Qin, Xufei Lv, Tiantian Zhang, Yongzhe Chang, Xueqian Wang*. Preprint'25
 1. [**Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models.**](https://arxiv.org/abs/2505.04921)  [[code](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)] 
    *Yunxin Li, Zhenyu Liu, Zitao Li, Xuanyu Zhang, Zhenran Xu, Xinyu Chen, Haoyuan Shi, Shenyuan Jiang, Xintong Wang, Jifang Wang, Shouzheng Huang, Xinping Zhao, Borui Jiang, Lanqing Hong, Longyue Wang, Zhuotao Tian, Baoxing Huai, Wenhan Luo, Weihua Luo, Zheng Zhang, Baotian Hu, Min Zhang.* Preprint'25
 1. [**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.**](https://arxiv.org/abs/2503.12605)  [[code](http://github.com/yaotingwangofficial/Awesome-MCoT)] 
