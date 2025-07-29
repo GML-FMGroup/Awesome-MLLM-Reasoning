@@ -8,7 +8,26 @@ Whether you're a researcher, engineer, or student, this repository will help you
 Watch & Star 🌟—let’s explore the future of multimodal intelligence together!
 
 ## Papers 📄
+1. **[Can Multimodal Foundation Models Understand Schematic Diagrams?
+An Empirical Study on Information-Seeking QA over Scientific Papers
+.](https://arxiv.org/abs/2507.10624)** [[code](https://github.com/yilunzhao/MISS-QA)]
+    *Zheng Zhang.* Preprint'25
 
+1. **[Comprehension Without Competence: Architectural Limits
+of LLMs in Symbolic Computation and Reasoning
+.](https://arxiv.org/abs/2507.07998)**
+    *Shitian Zhao, Haoquan Zhang, Shaoheng Lin, Ming Li, Qilong Wu, Kaipeng Zhang, Chen Wei.* Preprint'25
+
+
+1. **[True Multimodal In-Context Learning Needs
+Attention to the Visual Context
+.](https://arxiv.org/abs/2507.15807)** [[project](https://chenxshuo.github.io/true-micl-colm/)]
+    *Shuo Chen, Jianzhe Liu, Zhen Han, Yan Xia, Daniel Cremers, Philip Torr, Volker Tresp, Jindong Gu.* Preprint'25
+
+1. **[PyVision: Agentic Vision with Dynamic Tooling
+.](https://arxiv.org/abs/2507.07998)** [[project](https://agent-x.space/pyvision/)]
+    *Shitian Zhao, Haoquan Zhang, Shaoheng Lin, Ming Li, Qilong Wu, Kaipeng Zhang, Chen Wei.* Preprint'25
+    
 1. **[ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning.](https://arxiv.org/abs/2506.03596)** [[code](https://github.com/Maplebb/ControlThinker)]
     *Feng Han, Yang Jiao, Shaoxiang Chen, Junhao Xu, Jingjing Chen, Yu-Gang Jiang.* Preprint'25
 
@@ -181,7 +200,11 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 ## Benchmark & Evaluation🤗
 
 
-
+1. **[Zebra-CoT: A Dataset for Interleaved
+Vision-Language Reasoning
+.](https://arxiv.org/abs/2507.16746)** [[code](https://github.com/multimodal-reasoning-lab/Bagel-Zebra-CoT)]
+    *Ang Li, Charles Wang, Kaiyu Yue, Zikui Cai, Ollie Liu, Deqing Fu, Peng Guo, Wang Bill Zhu, Vatsal Sharan, Robin Jia, Willie Neiswanger, Furong Huang, Tom Goldstein, Micah Goldblum.* Preprint'25
+    
 1. **[Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence.](https://arxiv.org/abs/2505.23747)**  [[project](https://diankun-wu.github.io/Spatial-MLLM/)]
    *Diankun Wu, Fangfu Liu, Yi-Hsin Hung, Yueqi Duan.* Preprint'25
    
