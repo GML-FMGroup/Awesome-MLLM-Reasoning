@@ -8,6 +8,13 @@ Whether you're a researcher, engineer, or student, this repository will help you
 Watch & Star 🌟—let’s explore the future of multimodal intelligence together!
 
 ## Papers 📄
+1. **[VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning.](https://www.arxiv.org/abs/2507.22607)** [[code](https://github.com/alibaba-damo-academy/VL-Cogito)]
+    *Ruifeng Yuan, Chenghao Xiao, Sicong Leng, Jianyu Wang, Long Li, Weiwen Xu, Hou Pong Chan, Deli Zhao, Tingyang Xu, Zhongyu Wei, Hao Zhang, Yu Rong.* Preprint'25
+
+1. **[Perception-Aware Policy Optimization for Multimodal Reasoning
+.](https://arxiv.org/abs/2507.06448)** [[project](https://mikewangwzhl.github.io/PAPO/)]
+    *Zhenhailong Wang, Xuehang Guo, Sofia Stoica, Haiyang Xu, Hongru Wang, Hyeonjeong Ha, Xiusi Chen, Yangyi Chen, Ming Yan, Fei Huang, Heng Ji.* Preprint'25
+
 1. **[Can Multimodal Foundation Models Understand Schematic Diagrams?
 An Empirical Study on Information-Seeking QA over Scientific Papers
 .](https://arxiv.org/abs/2507.10624)** [[code](https://github.com/yilunzhao/MISS-QA)]
