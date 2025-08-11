@@ -8,6 +8,15 @@ Whether you're a researcher, engineer, or student, this repository will help you
 Watch & Star 🌟—let’s explore the future of multimodal intelligence together!
 
 ## Papers 📄
+1. **[VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning.](https://arxiv.org/abs/2507.13348)** [[code](https://github.com/dvlab-research/VisionThink)]
+    *Senqiao Yang, Junyi Li, Xin Lai, Bei Yu, Hengshuang Zhao, Jiaya Jia.* Preprint'25
+
+1. **[M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning.](https://arxiv.org/abs/2507.08306)** [[code](https://github.com/inclusionAI/M2-Reasoning)]
+    *Inclusion AI: Fudong Wang, Jiajia Liu, Jingdong Chen, Jun Zhou, Kaixiang Ji, Lixiang Ru, Qingpei Guo, Ruobing Zheng, Tianqi Li, Yi Yuan, Yifan Mao, Yuting Xiao, Ziping Ma.* Preprint'25
+
+1. **[The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs.](https://arxiv.org/abs/2507.07562)** [[code](https://github.com/JierunChen/SFT-RL-SynergyDilemma)]
+    *Jierun Chen, Tiezheng Yu, Haoli Bai, Lewei Yao, Jiannan Wu, Kaican Li, Fei Mi, Chaofan Tao, Lei Zhu, Manyi Zhang, Xiaohui Li, Lu Hou, Lifeng Shang, Qun Liu.* Preprint'25
+
 1. **[VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning.](https://www.arxiv.org/abs/2507.22607)** [[code](https://github.com/alibaba-damo-academy/VL-Cogito)]
     *Ruifeng Yuan, Chenghao Xiao, Sicong Leng, Jianyu Wang, Long Li, Weiwen Xu, Hou Pong Chan, Deli Zhao, Tingyang Xu, Zhongyu Wei, Hao Zhang, Yu Rong.* Preprint'25
 
