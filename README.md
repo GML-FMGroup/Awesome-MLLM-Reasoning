@@ -7,7 +7,32 @@ Whether you're a researcher, engineer, or student, this repository will help you
 
 Watch & Star 🌟—let’s explore the future of multimodal intelligence together!
 
-## Papers 📄
+## Agent Reasoning Papers 📄
+
+1. **[Unlocking Implicit Experience:Synthesizing Tool-Use Trajectories from Text.](https://arxiv.org/abs/2601.10355)** 
+   *Zhihao Xu, Rumei Li, Jiahuan Li, Rongxiang Weng, Jingang Wang, Xunliang Cai, Xiting Wang.* Preprint'26
+2. **[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization.](https://arxiv.org/abs/2601.05242)** [[project](https://nvlabs.github.io/GDPO/)]
+   *Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Peter Belcak, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov.* Preprint'26
+3. **[Can We Predict Before Executing Machine Learning Agents?](https://arxiv.org/abs/2601.05930)** [[code](https://github.com/zjunlp/predict-before-execute)]
+   *Jingsheng Zheng, Jintian Zhang, Yujie Luo, Yuren Mao, Yunjun Gao, Lun Du, Huajun Chen, Ningyu Zhang.* Preprint'26
+4. **[Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://arxiv.org/abs/2601.06021)** [[code](https://github.com/THUDM/CaRR)]
+   *Jiajie Zhang, Xin Lv, Ling Feng, Lei Hou, Juanzi Li.* Preprint'26
+5. **[Sci-Reasoning: A Dataset Decoding AI Innovation Patterns.](https://arxiv.org/abs/2601.04577v1)**
+   *Jiachen Liu, Maestro Harmon, Zechen Zhang.* Preprint'26
+6. **[RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction.](https://arxiv.org/abs/2601.06966)**[[code](https://github.com/AvatarMemory/RealMemBench)]
+   *Haonan Bian, Zhiyuan Yao, Sen Hu, Zishan Xu, Shaolei Zhang, Yifu Guo, Ziliang Yang, Xueran Han, Huacan Wang, Ronghao Chen.* Preprint'26
+7. **[TourPlanner: A Competitive Consensus Framework with Constraint-Gated Reinforcement Learning for Travel Planning.](https://www.arxiv.org/abs/2601.04698)**
+   *Yinuo Wang, Mining Tan, Wenxiang Jiao, Xiaoxi Li, Hao Wang, Xuanyu Zhang, Yuan Lu, Weiming Dong.* Preprint'26
+8. **[Dr. Zero: Self-Evolving Search Agents without Training Data.](https://arxiv.org/abs/2601.07055)**[[code](https://github.com/facebookresearch/drzero)]
+   *Zhenrui Yue, Kartikeya Upasani, Xianjun Yang, Suyu Ge, Shaoliang Nie, Yuning Mao, Zhe Liu, Dong Wang.* Preprint'26
+9. **[Parallel Context-of-Experts Decoding for Retrieval Augmented Generation.](https://arxiv.org/abs/2601.08670)**
+   *Giulio Corallo, Paolo Papotti.* Preprint'26
+10. **[Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning.](https://arxiv.org/abs/2601.09536)**[[code](https://github.com/ModalityDance/Omni-R1)]
+   *Dongjie Cheng, Yongqi Li, Zhixin Ma, Hongru Cai, Yupeng Hu, Wenjie Wang, Liqiang Nie, Wenjie Li.* Preprint'26
+
+
+
+## MLLM Reasoning Papers 📄
 
 1. **[ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning.](https://arxiv.org/abs/2506.03596)** [[code](https://github.com/Maplebb/ControlThinker)]
     *Feng Han, Yang Jiao, Shaoxiang Chen, Junhao Xu, Jingjing Chen, Yu-Gang Jiang.* Preprint'25
