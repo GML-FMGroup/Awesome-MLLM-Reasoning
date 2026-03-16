@@ -28,11 +28,26 @@ Watch & Star 🌟—let’s explore the future of multimodal intelligence togeth
 9. **[Parallel Context-of-Experts Decoding for Retrieval Augmented Generation.](https://arxiv.org/abs/2601.08670)**
    *Giulio Corallo, Paolo Papotti.* Preprint'26
 10. **[Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning.](https://arxiv.org/abs/2601.09536)**[[code](https://github.com/ModalityDance/Omni-R1)]
-   *Dongjie Cheng, Yongqi Li, Zhixin Ma, Hongru Cai, Yupeng Hu, Wenjie Wang, Liqiang Nie, Wenjie Li.* Preprint'26
+      *Dongjie Cheng, Yongqi Li, Zhixin Ma, Hongru Cai, Yupeng Hu, Wenjie Wang, Liqiang Nie, Wenjie Li.* Preprint'26
 
 
 
 ## MLLM Reasoning Papers 📄
+
+1. **[VisualPRM: An Effective Process Reward Model for Multimodal Reasoning.](https://arxiv.org/abs/2601.05242)** [[project](https://internvl.github.io/blog/2025-03-13-VisualPRM/)]
+    *Weiyun Wang, Zhangwei Gao, Lianjie Chen, Zhe Chen, Jinguo Zhu, Xiangyu Zhao, Yangzhou Liu, Yue Cao, Shenglong Ye, Xizhou Zhu, Lewei Lu, Haodong Duan, Yu Qiao, Jifeng Dai, Wenhai Wang.* ICLR 26
+
+1. **[AURORA:Automated Training Framework of Universal Process Reward Models via Ensemble Prompting and Reverse Verification.](https://arxiv.org/abs/2502.11520)** [[project](https://huggingface.co/infly/Universal-PRM-7B)]
+    *Xiaoyu Tan, Tianchu Yao, Chao Qu, Bin Li, Minghao Yang, Dakuan Lu, Haozhe Wang, Xihe Qiu, Wei Chu, Yinghui Xu, Yuan Qi.* Preprint'26
+
+1. **[Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning.](https://arxiv.org/abs/2601.05242)** 
+    *Amrith Setlur, Chirag Nagpal, Adam Fisch, Xinyang Geng, Jacob Eisenstein, Rishabh Agarwal, Alekh Agarwal, Jonathan Berant, Aviral Kumar.* Preprint'26
+
+1. **[StructVRM: Aligning Multimodal Reasoning with Structured and Verifiable Reward Models.](https://arxiv.org/abs/2508.05383)** 
+    *Xiangxiang Zhang, Jingxuan Wei, Donghong Zhong, Qi Chen, Caijun Jia, Cheng Tan, Jinming Gu, Xiaobo Qin, Zhiping Liu, Liang Hu, Tong Sun, Yuchen Wu, Zewei Sun, Chenwei Lou, Hua Zheng, Tianyang Zhan, Changbao Wang, Shuangzhi Wu, Zefa Lin, Chang Guo, Sihang Yuan, Riwei Chen, Shixiong Zhao, Yingping Zhang, Gaowei Wu, Bihui Yu, Jiahui Wu, Zhehui Zhao, Qianqian Liu, Ruofeng Tang, Xingyue Huang, Bing Zhao, Mengyang Zhang, Youqiang Zhou.* Preprint'26
+
+1. **[DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning.](https://arxiv.org/abs/2505.20241)** 
+    *Qi Cao, Ruiyi Wang, Ruiyi Zhang, Sai Ashish Somayajula, Pengtao Xie.* Preprint'26
 
 1. **[ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning.](https://arxiv.org/abs/2506.03596)** [[code](https://github.com/Maplebb/ControlThinker)]
     *Feng Han, Yang Jiao, Shaoxiang Chen, Junhao Xu, Jingjing Chen, Yu-Gang Jiang.* Preprint'25
